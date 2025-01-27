@@ -1,2 +1,2 @@
 # snai.log.datafilter
-go log 读写
+go file 读写 过滤
